@@ -1,6 +1,6 @@
 ---
 # Ansible Playbook for some configration on debian based distros
-# Replace "{{user_name}}" with your username in this former
+# Replace "{{user_name}}" with your username in following format:
 # username: exampleuser
 - name: Configure Linux via Playbook
   hosts: localhost
